@@ -1,0 +1,55 @@
+.head {
+  text-align: center;
+  padding-top: 30px;
+}
+.con {
+  padding-right: 180px;
+  padding-left: 180px;
+}
+
+.clg {
+  margin-left: 450px;
+}
+
+@media screen and (max-width: 425px) {
+  .clg {
+    margin-left: 70px;
+    /* text-align: end; */
+  }
+  .con {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+}
+.clg1 {
+  margin-left: 510px;
+}
+.clg2 {
+  margin-left: 500px;
+}
+.para {
+  padding-bottom: 20px;
+}
+.skill {
+  font-size: 20px;
+
+  font-weight: bold;
+}
+.second {
+  font-style: normal;
+  font-weight: 200;
+}
+
+.exp1 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+a {
+  margin-left: 50px;
+}
+
+.skilling {
+  font-size: 20px;
+  font-weight: bold;
+}
